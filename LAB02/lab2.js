@@ -28,7 +28,7 @@ function determineWinner(userSelection, computerSelection) {
             return "Computer Wins!";
         }
     } else {
-        return "Invalid user selection!! /nKindly choose from these options:- ROCK, PAPER, or SCISSORS.";
+        return "Invalid user selection!! /nPlay again.";
     }
 }
 
