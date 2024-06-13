@@ -39,3 +39,11 @@ form.addEventListener('submit', e => {
       })
     .catch(error => console.error('Error!', error.message))
 })
+
+function showMoreCertificates() {
+    const works = document.querySelectorAll('.show');
+    for (let i = 0; i < works.length; i++) {
+        works[i].classList.add('visible');
+    }
+    document.querySelector('.btn').style.display = 'none';
+}

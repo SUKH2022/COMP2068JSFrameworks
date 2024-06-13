@@ -132,6 +132,15 @@ nav ul li a:hover::after{
 .tab-contents.active-tab{
   display: block;
 }
+
+.mt {
+  margin-top: 10px;
+}
+
+.show { display: none; }
+.show.visible { display: block; }
+
+
 /* -------services---------- */
 #services{
   padding: 30px 0;
