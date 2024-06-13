@@ -32,7 +32,7 @@ This application is designed as a personal portfolio website to highlight my ski
 
 ## 🌐 Live Site
 
-Check out the live site [here](#).
+Check out the live site [here](https://personal-portfolio-t85p.onrender.com).
 
 ## 🚀 Usage
 
