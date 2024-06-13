@@ -223,18 +223,18 @@ nav ul li a:hover::after{
   transition: height 0.5s;
 }
 .layer h4{
-  font-weight: 400;/*500*/
-  margin-bottom: 5px;/*20*/
+  font-weight: 400;
+  margin-bottom: 5px;
 }
 .layer a{
-  margin-top: 3px;/*20*/
+  margin-top: 3px;
   color: #ff004f;
   text-decoration: none;
-  font-size: 14px;/*18*/
-  line-height: 30px;/*60*/
+  font-size: 14px;
+  line-height: 30px;
   background: #fefefe;
-  width: 30px;/*60*/
-  height: 30px;/*60*/
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
   text-align: center;
 }
@@ -330,7 +330,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 600px){
   #header{
-      background-image: url(images/sciphone-background.jpg);
+      background-image: url(../images/sciphone-background.jpg);
   }
   .header-text{
       margin-top: 60%;
@@ -388,7 +388,7 @@ nav .fa-solid{
       font-size: 14px;
   }
 }
-/* id is denoted by # */
+
 #msg{
   color: #61b752;
   margin-top: -40px;

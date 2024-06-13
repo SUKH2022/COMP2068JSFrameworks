@@ -1,3 +1,4 @@
+// side bar for small screens
 var sidemenu = document.getElementById("sidemenu");
 function openmenu(){
     sidemenu.style.right="0";
@@ -20,6 +21,7 @@ function opentab(tabname){
     document.getElementById(tabname).classList.add("active-tab");
 }
 
+// Contact form connected with Google Sheets
 const scriptURL = 'https://script.google.com/macros/s/AKfycbwnorGprtB5YaIUz4DqkSbJ6wjHXtOUX4gJMmq2Fs6kMbjizm_WUcRBZcrZVowREHLo/exec';
 
 //copy the name which is submit-to-google-sheet to form name
@@ -40,6 +42,7 @@ form.addEventListener('submit', e => {
     .catch(error => console.error('Error!', error.message))
 })
 
+// func. to show more certificates in the projects page
 function showMoreCertificates() {
     const works = document.querySelectorAll('.show');
     for (let i = 0; i < works.length; i++) {
