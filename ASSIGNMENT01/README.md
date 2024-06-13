@@ -4,11 +4,10 @@ Welcome to my Personal Portfolio site! This project showcases my skills, project
 
 ## 📑 Table of Contents
 
-- [Description](#description)
-- [Live Site](#live-site)
-- [Usage](#usage)
-- [External Sources](#external-sources)
-- [Screenshots](#screenshots)
+- Description
+- Live Site
+- Usage
+- External Sources
 
 ## 📝 Description
 
@@ -35,7 +34,7 @@ This application is designed as a personal portfolio website to highlight my ski
 
 ## 🌐 Live Site
 
-Check out the live site [here](https://personal-portfolio-t85p.onrender.com).
+Check out the live site [here](https://personal-portfolio-t85p.onrender.com) :- https://personal-portfolio-t85p.onrender.com.
 
 ## 🚀 Usage
 
