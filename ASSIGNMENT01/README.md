@@ -30,13 +30,13 @@ To run this application locally:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/SUKH2022/COMP2068JSFrameworks/ASSIGNMENT01.git
+    git clone https://github.com/SUKH2022/personal-portfolio.git
     ```
 
 2. Install the dependencies:
 
     ```bash
-    cd ASSIGNMENT01
+    cd personal-portfolio
     npm install
     ```
 
@@ -58,7 +58,7 @@ This project utilizes the following external sources, templates, and themes:
 
 ## 📸 Screenshots
 
-![🏠 Home Page](public/images/screenshot1.png)
-![🙋‍♂️ About Me Page](public/images/screenshot2.png)
-![💼 Projects Page](public/images/screenshot3.png)
-![📞 Contact Me Page](public/images/screenshot5.png)
+![🏠 Home Page](public/images/home.png)
+![🙋‍♂️ About Me Page](public/images/about.png)
+![💼 Projects Page](public/images/projects.png)
+![📞 Contact Me Page](public/images/contact.png)
