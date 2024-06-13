@@ -1,10 +1,40 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{title}}</title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
-  </head>
-  <body>
+    <link rel="stylesheet" href="../public/stylesheets/style.css">
+    <script src="https://kit.fontawesome.com/369860f82a.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <img src="../public/images/logo1.png" alt="logo" class="logo">
+                <ul id="sidemenu">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="./about.hbs">About Myself</a></li>
+                    <li><a href="./projects.hbs">Projects</a></li>
+                    <li><a href="./contact.hbs">Contact</a></li>
+                    <i class="fa-solid fa-circle-xmark" onclick="closemenu()"></i>
+                </ul>
+                <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+            </nav>
+            <div class="header-text">
+                <p>Computer Programmer</p>
+                <h1>Hello, I'm <span>Sukhpreet</span> Saini</h1>
+            </div>
+        </div>
+    </div>
+    
     {{{body}}}
-  </body>
+
+    <div class="copyright">
+        <p><i class="fa-solid fa-copyright"></i> Copyright Sukhpreet Saini</p>
+    </div>
+
+    <script src="../public/javascripts/script.js"></script>
+</body>
 </html>
