@@ -15,9 +15,20 @@ Welcome to my Personal Portfolio site! This project showcases my skills, project
 This application is designed as a personal portfolio website to highlight my skills, projects, and achievements. It includes the following pages:
 
 - **🏠 Home**: An introduction to myself and my role as a computer programmer.
+
+![🏠 Home Page](public/images/screenshot1.png)
+
 - **🙋‍♂️ About Me**: A detailed description of my background, skills, experience, and education.
+
+![🙋‍♂️ About Me Page](public/images/screenshot2.png)
+
 - **💼 Projects**: A list of various projects I have worked on, including Python, C/C++, web design, and more.
+
+![💼 Projects Page](public/images/screenshot3.png)
+
 - **📞 Contact Me**: A page where visitors can reach out to me through a contact form.
+
+![📞 Contact Me Page](public/images/screenshot5.png)
 
 ## 🌐 Live Site
 
@@ -56,9 +67,3 @@ This project utilizes the following external sources, templates, and themes:
 - **Google Fonts**: For typography styles. [Google Fonts](https://fonts.google.com/)
 - **Handlebars (HBS)**: As the templating engine. [Handlebars.js](https://handlebarsjs.com/)
 
-## 📸 Screenshots
-
-![🏠 Home Page](public/images/screenshot1.png)
-![🙋‍♂️ About Me Page](public/images/screenshot2.png)
-![💼 Projects Page](public/images/screenshot3.png)
-![📞 Contact Me Page](public/images/screenshot5.png)
