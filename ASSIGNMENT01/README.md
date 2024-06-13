@@ -28,6 +28,9 @@ This application is designed as a personal portfolio website to highlight my ski
 
 - **📞 Contact Me**: A page where visitors can reach out to me through a contact form.
 
+#### NOTE :- I have also tried making a working contact me form which is connected with my Google Sheets. I will get all the details of the users who fill the form.
+
+
 ![📞 Contact Me Page](public/images/screenshot5.png)
 
 ## 🌐 Live Site
