@@ -51,10 +51,4 @@ Follow these steps to set up and run the server on your local machine.
 - **Multiplication**: `16 multiply 4 = 64`
 - **Division**: `16 divide 4 = 4`
 
-## Acknowledgments 🙌
-
-- [Node.js](https://nodejs.org/)
-- [Connect](https://www.npmjs.com/package/connect)
-- [URL](https://nodejs.org/api/url.html)
-
 Feel free to contribute to this project or suggest improvements. Enjoy calculating! 😊
