@@ -100,7 +100,7 @@ router.post('/search', async (req, res) => {
 */
 router.get('/about', (req, res) => {
   res.render('about', {
-    // currentRoute: '/about'
+    currentRoute: '/about'
   });
 });
 
