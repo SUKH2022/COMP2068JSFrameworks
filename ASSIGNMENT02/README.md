@@ -63,7 +63,7 @@ To get a local copy up and running, follow these simple steps:
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](public\img\home.png)
+![Home Page](ASSIGNMENT02/public/img/home.png)
 
 ### Dashboard
 ![Dashboard](dashboard.png)
