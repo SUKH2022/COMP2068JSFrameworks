@@ -63,10 +63,10 @@ To get a local copy up and running, follow these simple steps:
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](img/home.png)
+![Home Page](public\img\home.png)
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](public\img\dashboard.png)
 
 ### Search Feature
 ![Search Feature](public\img\search.png)
