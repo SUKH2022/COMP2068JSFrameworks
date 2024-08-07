@@ -5,7 +5,7 @@ const User = require('../models/User');
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 
-const adminLayout = '../views/layouts/admin';
+const adminLayout = '../layouts/admin';
 const jwtSecret = process.env.JWT_SECRET;
 
 
