@@ -3,7 +3,7 @@
 Welcome to our Blog Website! This project is a feature-rich blog platform built with Node.js, Express, MongoDB, and Handlebars. Users can authenticate using GitHub or Google, and search posts using keywords.
 
 ## 🌐 Live Demo
-Check out the live site [here](http://your-live-site-url.com).
+Check out the live site:- [https://blog-website-pn0o.onrender.com].
 
 ## 📖 Description
 This blog website allows users to create, edit, and delete posts. Only authenticated users can perform these actions, ensuring a secure and personalized experience. The application includes the following features:
@@ -57,7 +57,7 @@ To get a local copy up and running, follow these simple steps:
 4. **Start the server**
 
     ```sh
-    npm start dev
+    npm run dev
     ```
 
 5. **Registered User for login**
