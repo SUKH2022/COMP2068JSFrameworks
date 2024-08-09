@@ -60,6 +60,13 @@ To get a local copy up and running, follow these simple steps:
     npm start dev
     ```
 
+5. **Registered User for login**
+
+    ```sh
+    username:- admin
+    password:- 123456
+    ```
+
 ## 📷 Screenshots
 
 ### Home Page
