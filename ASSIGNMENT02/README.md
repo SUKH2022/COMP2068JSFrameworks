@@ -72,6 +72,9 @@ To get a local copy up and running, follow these simple steps:
 ### Home Page
 ![Home Page](home.png)
 
+### Post Section
+![Post section](post.png)
+
 ### Dashboard
 ![Dashboard](dashboard.png)
 
