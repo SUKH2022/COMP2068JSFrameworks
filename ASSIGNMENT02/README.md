@@ -70,10 +70,10 @@ To get a local copy up and running, follow these simple steps:
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](public\img\home.png)
+![Home Page](home.png)
 
 ### Dashboard
-![Dashboard](public\img\dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Search Feature
-![Search Feature](public\img\search.png)
+![Search Feature](search.png)
